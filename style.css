@@ -1,0 +1,19 @@
+.About{
+    background-color: #BCA37F ;
+    color: whitesmoke;
+    font-size: 25px;
+}
+.First{
+    text-align: center;
+    color: whitesmoke;
+    background-color:  #BCA37F ;
+}
+html{
+    color: whitesmoke;
+    font-family: sans-serif,serif;
+    background-color:#FFF2D8;
+}
+.Image{
+    height: 25%;
+    width: 100%;
+}
