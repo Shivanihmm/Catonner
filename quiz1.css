@@ -1,0 +1,297 @@
+/* CSS CODE*/
+
+html,body{
+    height: 100%;
+  }
+  
+  .intor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This sets the height to 100% of the viewport height.*/
+    padding: 20px; /* Add spacing at the top and bottom */
+  }
+  h1 {
+    text-align: center;
+    background-color: #a74df1;
+  }
+  
+  h2{
+    background-color: plum;
+  }
+  
+  .gap{
+    height: 5vh; /* This sets the height to 100% of the viewport height.*/
+    padding: 20px; /* Add spacing at the top and bottom */
+  }
+  
+  .question1-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question1{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question1 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question2-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question2{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question2 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question3-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question3{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question3 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question4-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question4{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question4 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question5-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question5{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question5 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question6-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question6{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question6 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question7-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question7{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question7 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question8-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question8{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question8 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question9-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question9{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question9 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .question10-block{
+    width: 25%; /* adjust the width as needed */
+    max-width: 400px; /* set a maximum width */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* Center text within the div */
+    padding: 85px; /* Add padding for spacing inside the div */
+  }
+  
+  .question10{
+    display: flex;
+    flex-direction: column; /* Place buttons one below the other */
+    align-items: center; /* Center the buttons vertically within the div */
+  }
+  
+  
+  .question10 button{
+    display: block; /* Stack buttons vertically */
+    margin: 20px 0;   /* Add margin for spacing between buttons */
+    padding: 10px;    /* Add padding for button appearance */
+  }
+  
+  .btn-hover {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .btn-hover:hover {
+    background-position: 100% 0;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .btn-hover:focus {
+    outline: none;
+  }
+  
+  .btn-hover.btn {
+    background-image: linear-gradient(
+      to right,
+      #667eea,
+      #764ba2,
+      #6b8dd6,
+      #8e37d7
+    );
+    box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+  }
+  #calculateResult {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff;
+    background-image: linear-gradient(
+      to right,
+      #667eea,
+      #764ba2,
+      #6b8dd6,
+      #8e37d7
+    );
+    border-radius: 20px;
+}
+body{
+  background-image: url(cloud.jpg);
+}
